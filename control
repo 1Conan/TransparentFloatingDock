@@ -1,0 +1,9 @@
+Package: com.1conan.transparentfloatingdock
+Name: TransparentFloatingDock
+Depends: mobilesubstrate, firmware(>=11.0)
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Transparent Floating Dock. What else?
+Maintainer: 1Conan <tweaks@1conan.com>
+Author: 1Conan
+Section: Tweaks
